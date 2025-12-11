@@ -12,3 +12,14 @@
   optimisation. It was a simple exercise, but it helped me get to grips with how deep learning operates
   at a basic level.
 </p>
+<h3>Acknowledgements</h3>
+<p>
+  This project incorporates ideas and reference material from several publicly available sources. 
+  The image-classification demonstration adapts concepts from Chapter 2 of 
+  <em>Deep Learning with PyTorch</em> by Thomas Viehmann, Eli Stevens, and Luca Antiga 
+  (Manning Publications), and the associated GitHub repository. 
+  Additional reference implementations were reviewed from the 
+  <em>PyTorch Pocket Reference</em> by Joe Papa, whose accompanying example code is also available online. 
+  These resources provided guidance on model structure, training loops, and general PyTorch workflow, 
+  which I adapted for my own learning and experimentation.
+</p>
